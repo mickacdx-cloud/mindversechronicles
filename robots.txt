@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mickacdx-cloud.github.io/mindversechronicles/sitemap.xml
