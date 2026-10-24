@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "base_url": "https://mickacdx-cloud.github.io/mindversechronicles/",
+  "pages": [
+    {
+      "path": "about.html",
+      "sha256": "da30007d97d0471711b8a1a972d5ec373974fde53b08d7901d055e5011914bcc"
+    },
+    {
+      "path": "collections.html",
+      "sha256": "b76e6d9c06e3dbc5ce71b40dd3d1f9f967e4f3deef3ff281f317fe9a6f6b6e76"
+    },
+    {
+      "path": "forest-cabin-rain.html",
+      "sha256": "069ecf8d8610ac2adefce22b55f93f7228ff5f6ad46241da4004808a2544a30d"
+    },
+    {
+      "path": "gentle-forest-rain.html",
+      "sha256": "787062267fa7b84e2050a35e353e0b64bca6f0f03e008a8832e28667e44d9c32"
+    },
+    {
+      "path": "guides.html",
+      "sha256": "5863691265cbb70b039575db8d06af5e54f3ff55465177bc8f0c5faaa8f185f7"
+    },
+    {
+      "path": "index.html",
+      "sha256": "07485df82e9cd8dcd44e3fabce23f2471b64551155a53fd79e86ef684cf66def"
+    },
+    {
+      "path": "japanese-room-rain.html",
+      "sha256": "0f9b27f5821516fa95c50adba67cbff623f1f0160b664b50a3aca56fe2d013a1"
+    },
+    {
+      "path": "privacy.html",
+      "sha256": "cbb27b2e4cd3e588396db9165eb31030be87394d72974b0fb641a0637e18415c"
+    },
+    {
+      "path": "quiet-evening-rain.html",
+      "sha256": "8899dc3d271e0a5129b2e47bcf65b00a9013731f1376999beba8a98096fa5a38"
+    },
+    {
+      "path": "rain-for-reading.html",
+      "sha256": "8c02c012f7b0a1e592511123b6ac55425ff743d89607b354e3144e1fcb643078"
+    },
+    {
+      "path": "rain-sounds-or-silence-for-studying.html",
+      "sha256": "3243c95b624852b6081fa35276c3bb4aa180755a51a4a82af291731f339039c2"
+    }
+  ]
+}
